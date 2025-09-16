@@ -1,5 +1,6 @@
 x = True
 
+#creates loop
 while x == True:
     answer = input("Does the item has VAT with invoices? y/n: ")
     if answer == "y":
